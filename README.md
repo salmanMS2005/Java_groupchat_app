@@ -65,6 +65,7 @@ This will start the socket server on port 5000.
 
 
 You can run ChatClientGUI.java multiple times (or in IntelliJ, enable Parallel Run).
+
 Each client will:
 
 Ask for your name
@@ -74,13 +75,17 @@ Then,Shows chat history (not if its first time)
 Let you send & receive messages in real time
 
 🐞 Troubleshooting
+
 ❌ Access denied for MySQL?
+
 Check your MySQL username/password in DatabaseManager.java
 
 ❌ Can't connect to server?
+
 Make sure ChatServer.java is running before the client
 
 🧱 Client UI not responding?
+
 Make sure you're not blocking the Swing UI thread (already handled in this code)
 
 🧹 TODO / Improvements
@@ -93,7 +98,8 @@ Make sure you're not blocking the Swing UI thread (already handled in this code)
 
 🖼️ File sharing or media preview
 
-🧑‍💻 Author
+🧑‍💻 Author:
+
 Salman M S
 
 B.Tech - Artificial Intelligence & Data Science
