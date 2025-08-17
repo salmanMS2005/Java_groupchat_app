@@ -106,5 +106,5 @@ B.Tech - Artificial Intelligence & Data Science
 
 St. Joseph’s College of Engineering
 
-GitHub: @salmanms
+GitHub: @salmanMS2005
 
